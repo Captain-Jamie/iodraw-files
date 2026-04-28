@@ -184,7 +184,7 @@
         <mxCell id="bayTr0J5FJKMcmt-mkjU-94" value="知识库问答" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="580" y="492" width="130" height="32.5" as="geometry" />
         </mxCell>
-        <mxCell id="bayTr0J5FJKMcmt-mkjU-96" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=4.038461538461538;endSize=3.3884615384615384;endWidth=6.3387573964497035;exitX=0.197;exitY=0.002;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="bayTr0J5FJKMcmt-mkjU-96" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=4.038461538461538;endSize=3.3884615384615384;endWidth=6.3387573964497035;exitX=0.197;exitY=0.002;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#1ba1e2;strokeColor=#006EAF;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="249.77499999999998" y="500.75499999999994" as="sourcePoint" />
             <mxPoint x="250" y="472.44" as="targetPoint" />
