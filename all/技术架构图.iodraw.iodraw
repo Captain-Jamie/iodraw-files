@@ -13,8 +13,11 @@
         <mxCell id="bayTr0J5FJKMcmt-mkjU-6" value="应用层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="160" y="210" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bayTr0J5FJKMcmt-mkjU-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="bayTr0J5FJKMcmt-mkjU-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="90" width="520" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="bayTr0J5FJKMcmt-mkjU-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="100" width="520" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
