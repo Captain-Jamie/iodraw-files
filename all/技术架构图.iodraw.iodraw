@@ -199,10 +199,10 @@
         <mxCell id="bayTr0J5FJKMcmt-mkjU-101" value="Agent" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="160" y="280" width="55" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="bayTr0J5FJKMcmt-mkjU-106" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=8.205128205128206;endSize=5.620512820512821;endWidth=13.228139381985537;" edge="1" parent="1">
+        <mxCell id="bayTr0J5FJKMcmt-mkjU-106" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=8.888888888888888;endSize=4.2518518518518515;endWidth=13.228139381985537;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280" y="417.75" as="sourcePoint" />
-            <mxPoint x="320" y="418.25" as="targetPoint" />
+            <mxPoint x="280" y="408.5" as="sourcePoint" />
+            <mxPoint x="310" y="408.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
