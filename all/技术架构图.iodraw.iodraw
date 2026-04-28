@@ -145,7 +145,7 @@
         <mxCell id="bayTr0J5FJKMcmt-mkjU-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="bayTr0J5FJKMcmt-mkjU-80" target="bayTr0J5FJKMcmt-mkjU-82">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bayTr0J5FJKMcmt-mkjU-80" value="输入结构化" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="bayTr0J5FJKMcmt-mkjU-80" value="结构化输入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="249.68421052631578" y="567.0294117647059" width="118.73684210526316" height="42.05882352941177" as="geometry" />
         </mxCell>
         <mxCell id="bayTr0J5FJKMcmt-mkjU-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="bayTr0J5FJKMcmt-mkjU-82" target="bayTr0J5FJKMcmt-mkjU-84">
