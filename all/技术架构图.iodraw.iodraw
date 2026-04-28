@@ -118,9 +118,6 @@
         <mxCell id="bayTr0J5FJKMcmt-mkjU-55" value="长期记忆" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="261.68421052631584" y="676.7058823529412" width="94.73684210526316" height="42.05882352941177" as="geometry" />
         </mxCell>
-        <mxCell id="bayTr0J5FJKMcmt-mkjU-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bayTr0J5FJKMcmt-mkjU-56" target="bayTr0J5FJKMcmt-mkjU-55">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="bayTr0J5FJKMcmt-mkjU-56" value="短期记忆" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="134.73684210526318" y="676.7058823529412" width="94.73684210526316" height="42.05882352941177" as="geometry" />
         </mxCell>
@@ -236,7 +233,7 @@
           <mxGeometry x="444.21052631578954" y="806.1176470588235" width="88.42105263157896" height="32.35294117647059" as="geometry" />
         </mxCell>
         <mxCell id="bayTr0J5FJKMcmt-mkjU-122" value="接口层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="569.9963157894737" y="389.9982352941177" width="69.47368421052632" height="32.35294117647059" as="geometry" />
+          <mxGeometry x="569.9963157894737" y="388.8182352941177" width="69.47368421052632" height="32.35294117647059" as="geometry" />
         </mxCell>
         <mxCell id="bayTr0J5FJKMcmt-mkjU-123" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;glass=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="650" width="170" height="90" as="geometry" />
