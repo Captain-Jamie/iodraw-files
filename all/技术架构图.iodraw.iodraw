@@ -239,7 +239,10 @@
           <mxGeometry x="567.8863157894737" y="388.8182352941177" width="69.47368421052632" height="32.35294117647059" as="geometry" />
         </mxCell>
         <mxCell id="bayTr0J5FJKMcmt-mkjU-123" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;glass=1;" vertex="1" parent="1">
-          <mxGeometry x="577.89" y="400" width="182.11" height="242.35" as="geometry" />
+          <mxGeometry x="567.89" y="650" width="182.11" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="bayTr0J5FJKMcmt-mkjU-124" value="存储层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="567.8863157894737" y="649.9982352941178" width="69.47368421052632" height="32.35294117647059" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
