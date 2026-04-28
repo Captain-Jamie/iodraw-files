@@ -8,7 +8,10 @@
           <mxGeometry x="160" y="40" width="560" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bayTr0J5FJKMcmt-mkjU-5" value="交互层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="380" y="120" width="60" height="30" as="geometry" />
+          <mxGeometry x="160" y="100" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bayTr0J5FJKMcmt-mkjU-6" value="交互层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="170" y="110" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
