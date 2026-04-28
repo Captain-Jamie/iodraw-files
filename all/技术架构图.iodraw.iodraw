@@ -74,10 +74,10 @@
           <mxGeometry x="40" y="894.7088235294118" width="37.89473684210527" height="77.64705882352942" as="geometry" />
         </mxCell>
         <mxCell id="bayTr0J5FJKMcmt-mkjU-26" value="方案数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="141.06105263157895" y="842.3529411764706" width="126.3157894736842" height="42.05882352941177" as="geometry" />
+          <mxGeometry x="141.06" y="842.35" width="138.94" height="42.06" as="geometry" />
         </mxCell>
         <mxCell id="bayTr0J5FJKMcmt-mkjU-28" value="法规/标准文档" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="141.05789473684203" y="930.2929411764707" width="126.3157894736842" height="42.05882352941177" as="geometry" />
+          <mxGeometry x="141.05789473684203" y="894.7129411764706" width="126.3157894736842" height="42.05882352941177" as="geometry" />
         </mxCell>
         <mxCell id="bayTr0J5FJKMcmt-mkjU-30" value="结构化校验规则" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="381.05105263157895" y="1126.2329411764706" width="126.3157894736842" height="42.05882352941177" as="geometry" />
