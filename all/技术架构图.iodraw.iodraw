@@ -107,7 +107,7 @@
           <mxGeometry x="170" y="562" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bayTr0J5FJKMcmt-mkjU-54" value="工作流检查点" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="230" y="550.75" width="90" height="32.5" as="geometry" />
+          <mxGeometry x="560" y="550.75" width="90" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="bayTr0J5FJKMcmt-mkjU-55" value="长期记忆" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="345" y="550.75" width="75" height="32.5" as="geometry" />
