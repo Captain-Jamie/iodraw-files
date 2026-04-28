@@ -25,10 +25,10 @@
         <mxCell id="bayTr0J5FJKMcmt-mkjU-1" value="交互入口" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="bayTr0J5FJKMcmt-mkjU-119">
           <mxGeometry width="720" height="51.76470588235294" as="geometry" />
         </mxCell>
-        <mxCell id="bayTr0J5FJKMcmt-mkjU-5" value="交互层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="bayTr0J5FJKMcmt-mkjU-119">
+        <mxCell id="bayTr0J5FJKMcmt-mkjU-5" value="交互层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="bayTr0J5FJKMcmt-mkjU-119">
           <mxGeometry y="84.11764705882354" width="37.89473684210527" height="77.64705882352942" as="geometry" />
         </mxCell>
-        <mxCell id="bayTr0J5FJKMcmt-mkjU-6" value="应用层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="bayTr0J5FJKMcmt-mkjU-119">
+        <mxCell id="bayTr0J5FJKMcmt-mkjU-6" value="应用层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="bayTr0J5FJKMcmt-mkjU-119">
           <mxGeometry y="200.58823529411765" width="37.89473684210527" height="77.64705882352942" as="geometry" />
         </mxCell>
         <mxCell id="bayTr0J5FJKMcmt-mkjU-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="bayTr0J5FJKMcmt-mkjU-119">
