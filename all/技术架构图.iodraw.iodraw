@@ -191,7 +191,7 @@
           <mxGeometry x="576.84" y="502.35" width="164.21" height="33.2" as="geometry" />
         </mxCell>
         <mxCell id="bayTr0J5FJKMcmt-mkjU-93" value="生效、失效、删除" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="576.84" y="546.35" width="164.21" height="31.76" as="geometry" />
+          <mxGeometry x="576.84" y="546.35" width="153.16" height="31.76" as="geometry" />
         </mxCell>
         <mxCell id="bayTr0J5FJKMcmt-mkjU-94" value="知识库问答" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="576.84" y="585.41" width="164.21" height="30" as="geometry" />
@@ -242,7 +242,7 @@
           <mxGeometry x="567.89" y="650" width="182.11" height="90" as="geometry" />
         </mxCell>
         <mxCell id="bayTr0J5FJKMcmt-mkjU-124" value="存储层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="690.5263157894736" y="657.2982352941177" width="69.47368421052632" height="32.35294117647059" as="geometry" />
+          <mxGeometry x="680.5263157894736" y="649.9982352941178" width="69.47368421052632" height="32.35294117647059" as="geometry" />
         </mxCell>
         <mxCell id="bayTr0J5FJKMcmt-mkjU-125" value="向量数据库" style="shape=datastore;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="584.2099999999999" y="670" width="106.32" height="63.88" as="geometry" />
