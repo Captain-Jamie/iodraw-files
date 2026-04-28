@@ -254,7 +254,10 @@
           <mxGeometry x="52.63631578947367" y="751.7682352941177" width="69.47368421052632" height="32.35294117647059" as="geometry" />
         </mxCell>
         <mxCell id="bayTr0J5FJKMcmt-mkjU-129" value="向量数据库" style="shape=datastore;whiteSpace=wrap;html=1;fontSize=16;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
-          <mxGeometry x="222.63000000000008" y="771.7699999999999" width="95.79" height="50" as="geometry" />
+          <mxGeometry x="178.95000000000007" y="765.8799999999999" width="95.79" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bayTr0J5FJKMcmt-mkjU-130" value="向量数据库" style="shape=datastore;whiteSpace=wrap;html=1;fontSize=16;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="188.95000000000007" y="775.8799999999999" width="95.79" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
