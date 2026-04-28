@@ -185,10 +185,10 @@
           <mxGeometry x="576.84" y="450" width="164.21" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bayTr0J5FJKMcmt-mkjU-92" value="查询文档列表" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="576.84" y="486.8" width="164.21" height="33.2" as="geometry" />
+          <mxGeometry x="576.84" y="490" width="164.21" height="33.2" as="geometry" />
         </mxCell>
         <mxCell id="bayTr0J5FJKMcmt-mkjU-93" value="生效、失效、删除" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="576.8421052631579" y="609.0882352941177" width="164.21052631578948" height="42.05882352941177" as="geometry" />
+          <mxGeometry x="576.8421052631579" y="538.2382352941177" width="164.21052631578948" height="42.05882352941177" as="geometry" />
         </mxCell>
         <mxCell id="bayTr0J5FJKMcmt-mkjU-94" value="知识库问答" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="576.8421052631579" y="676.7058823529412" width="164.21052631578948" height="42.05882352941177" as="geometry" />
