@@ -77,7 +77,7 @@
           <mxGeometry x="141.06" y="842.35" width="138.94" height="42.06" as="geometry" />
         </mxCell>
         <mxCell id="bayTr0J5FJKMcmt-mkjU-28" value="法规/标准文档" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="141.05789473684203" y="894.7129411764706" width="126.3157894736842" height="42.05882352941177" as="geometry" />
+          <mxGeometry x="141.06" y="894.71" width="138.94" height="42.06" as="geometry" />
         </mxCell>
         <mxCell id="bayTr0J5FJKMcmt-mkjU-30" value="结构化校验规则" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="381.05105263157895" y="1126.2329411764706" width="126.3157894736842" height="42.05882352941177" as="geometry" />
@@ -258,6 +258,9 @@
         </mxCell>
         <mxCell id="bayTr0J5FJKMcmt-mkjU-130" value="PostgreSQL" style="shape=datastore;whiteSpace=wrap;html=1;fontSize=16;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="612.11" y="824.1199999999999" width="95.79" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bayTr0J5FJKMcmt-mkjU-132" value="企业规范文档" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="141.06" y="950" width="138.94" height="42.06" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
