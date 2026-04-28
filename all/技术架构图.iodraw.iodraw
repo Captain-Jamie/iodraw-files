@@ -20,7 +20,7 @@
           <mxGeometry x="115.78947368421053" y="1013.7676470588235" width="290.5263157894737" height="100.94117647058825" as="geometry" />
         </mxCell>
         <mxCell id="bayTr0J5FJKMcmt-mkjU-47" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;glass=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="350.59" width="492.63" height="499.41" as="geometry" />
+          <mxGeometry x="40" y="350.59" width="492.63" height="399.41" as="geometry" />
         </mxCell>
         <mxCell id="bayTr0J5FJKMcmt-mkjU-1" value="交互入口" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="40" y="40" width="720" height="51.76470588235294" as="geometry" />
