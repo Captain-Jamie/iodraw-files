@@ -17,7 +17,7 @@
           <mxGeometry x="115.79" y="810" width="204.21" height="190" as="geometry" />
         </mxCell>
         <mxCell id="bayTr0J5FJKMcmt-mkjU-115" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;glass=1;" vertex="1" parent="1">
-          <mxGeometry x="359.9994736842105" y="899.0576470588235" width="290.5263157894737" height="100.94117647058825" as="geometry" />
+          <mxGeometry x="360" y="899.06" width="380" height="100.94" as="geometry" />
         </mxCell>
         <mxCell id="bayTr0J5FJKMcmt-mkjU-47" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;glass=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="350.59" width="492.63" height="399.41" as="geometry" />
@@ -98,7 +98,7 @@
           <mxGeometry x="621.0526315789474" y="141.91176470588238" width="101.05263157894738" height="42.05882352941177" as="geometry" />
         </mxCell>
         <mxCell id="bayTr0J5FJKMcmt-mkjU-42" value="历史会话记录" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;glass=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="511.57842105263154" y="935.2929411764705" width="126.3157894736842" height="42.05882352941177" as="geometry" />
+          <mxGeometry x="591.8384210526316" y="936.7729411764706" width="126.3157894736842" height="42.05882352941177" as="geometry" />
         </mxCell>
         <mxCell id="bayTr0J5FJKMcmt-mkjU-44" value="知识库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="690.5263157894736" y="350.5882352941177" width="69.47368421052632" height="32.35294117647059" as="geometry" />
