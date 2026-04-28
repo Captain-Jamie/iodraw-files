@@ -191,7 +191,7 @@
           <mxGeometry x="576.84" y="534" width="164.21" height="31.76" as="geometry" />
         </mxCell>
         <mxCell id="bayTr0J5FJKMcmt-mkjU-94" value="知识库问答" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="576.84" y="580" width="164.21" height="30" as="geometry" />
+          <mxGeometry x="576.84" y="573.06" width="164.21" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bayTr0J5FJKMcmt-mkjU-101" value="Agent" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="40" y="350.5882352941177" width="69.47368421052632" height="32.35294117647059" as="geometry" />
@@ -231,6 +231,9 @@
         </mxCell>
         <mxCell id="bayTr0J5FJKMcmt-mkjU-118" value="源数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="444.21052631578954" y="806.1176470588235" width="88.42105263157896" height="32.35294117647059" as="geometry" />
+        </mxCell>
+        <mxCell id="bayTr0J5FJKMcmt-mkjU-121" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;glass=1;" vertex="1" parent="1">
+          <mxGeometry x="567.8947368421053" y="360.5882352941177" width="202.10526315789477" height="401.1764705882353" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
