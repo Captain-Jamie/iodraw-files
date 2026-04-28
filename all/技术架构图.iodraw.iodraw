@@ -244,7 +244,7 @@
         <mxCell id="bayTr0J5FJKMcmt-mkjU-124" value="存储层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="670.5263157894736" y="649.9982352941178" width="69.47368421052632" height="32.35294117647059" as="geometry" />
         </mxCell>
-        <mxCell id="bayTr0J5FJKMcmt-mkjU-125" value="向量数据库" style="shape=datastore;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="bayTr0J5FJKMcmt-mkjU-125" value="向量数据库" style="shape=datastore;whiteSpace=wrap;html=1;fontSize=16;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="586.3100000000001" y="678.4699999999999" width="95.79" height="50" as="geometry" />
         </mxCell>
       </root>
