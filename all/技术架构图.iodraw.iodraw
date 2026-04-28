@@ -181,8 +181,11 @@
         <mxCell id="bayTr0J5FJKMcmt-mkjU-92" value="查询文档列表" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="580" y="438.5" width="130" height="32.5" as="geometry" />
         </mxCell>
-        <mxCell id="bayTr0J5FJKMcmt-mkjU-93" value="查询文档列表" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="590" y="448.5" width="130" height="32.5" as="geometry" />
+        <mxCell id="bayTr0J5FJKMcmt-mkjU-93" value="生效、失效、删除" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="580" y="490" width="130" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bayTr0J5FJKMcmt-mkjU-94" value="生效、失效、删除" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="590" y="500" width="130" height="32.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
