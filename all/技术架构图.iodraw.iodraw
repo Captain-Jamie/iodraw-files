@@ -244,6 +244,12 @@
         <mxCell id="bayTr0J5FJKMcmt-mkjU-125" value="向量数据库" style="shape=datastore;whiteSpace=wrap;html=1;fontSize=16;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="586.3100000000001" y="678.4699999999999" width="95.79" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="bayTr0J5FJKMcmt-mkjU-126" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=8.888888888888888;endSize=4.2518518518518515;endWidth=13.228139381985537;entryX=0.855;entryY=1.003;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="192" y="687" as="sourcePoint" />
+            <mxPoint x="192" y="649" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
