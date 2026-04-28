@@ -91,7 +91,7 @@
         <mxCell id="bayTr0J5FJKMcmt-mkjU-43" value="Agent" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="160" y="320" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bayTr0J5FJKMcmt-mkjU-44" value="应用层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="bayTr0J5FJKMcmt-mkjU-44" value="知识库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="585" y="340" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
