@@ -253,6 +253,9 @@
         <mxCell id="bayTr0J5FJKMcmt-mkjU-128" value="存储层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="52.63631578947367" y="751.7682352941177" width="69.47368421052632" height="32.35294117647059" as="geometry" />
         </mxCell>
+        <mxCell id="bayTr0J5FJKMcmt-mkjU-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="bayTr0J5FJKMcmt-mkjU-129" target="bayTr0J5FJKMcmt-mkjU-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bayTr0J5FJKMcmt-mkjU-129" value="Redis" style="shape=datastore;whiteSpace=wrap;html=1;fontSize=16;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="178.95000000000007" y="765.8799999999999" width="95.79" height="50" as="geometry" />
         </mxCell>
