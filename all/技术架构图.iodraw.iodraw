@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="bayTr0J5FJKMcmt-mkjU-120" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry width="800" height="960" as="geometry" />
+        </mxCell>
         <mxCell id="bayTr0J5FJKMcmt-mkjU-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;glass=1;" vertex="1" parent="1">
           <mxGeometry x="90.5263157894737" y="790.5882352941177" width="669.4736842105264" height="129.41176470588235" as="geometry" />
         </mxCell>
@@ -127,13 +130,13 @@
         <mxCell id="bayTr0J5FJKMcmt-mkjU-58" value="结构化规则抽取" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="65.26315789473685" y="421.764705882353" width="126.3157894736842" height="42.05882352941177" as="geometry" />
         </mxCell>
-        <mxCell id="bayTr0J5FJKMcmt-mkjU-59" value="证据解释" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="bayTr0J5FJKMcmt-mkjU-59" value="兜底合规分析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="65.26315789473685" y="474.82352941176475" width="126.3157894736842" height="42.05882352941177" as="geometry" />
         </mxCell>
         <mxCell id="bayTr0J5FJKMcmt-mkjU-60" value="问答生成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="65.26315789473685" y="528.8529411764706" width="126.3157894736842" height="42.05882352941177" as="geometry" />
         </mxCell>
-        <mxCell id="bayTr0J5FJKMcmt-mkjU-61" value="兜底合规分析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="bayTr0J5FJKMcmt-mkjU-61" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="65.26315789473685" y="583.5294117647059" width="126.3157894736842" height="42.05882352941177" as="geometry" />
         </mxCell>
         <mxCell id="bayTr0J5FJKMcmt-mkjU-49" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;glass=1;" vertex="1" parent="1">
@@ -228,9 +231,6 @@
         </mxCell>
         <mxCell id="bayTr0J5FJKMcmt-mkjU-118" value="源数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="444.21052631578954" y="806.1176470588235" width="88.42105263157896" height="32.35294117647059" as="geometry" />
-        </mxCell>
-        <mxCell id="bayTr0J5FJKMcmt-mkjU-120" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry width="800" height="960" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
