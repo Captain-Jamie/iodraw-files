@@ -26,13 +26,13 @@
           <mxGeometry x="40" y="50" width="720" height="51.76470588235294" as="geometry" />
         </mxCell>
         <mxCell id="bayTr0J5FJKMcmt-mkjU-5" value="交互层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="40" y="124.11764705882354" width="37.89473684210527" height="77.64705882352942" as="geometry" />
+          <mxGeometry x="40" y="121.17764705882354" width="37.89473684210527" height="77.64705882352942" as="geometry" />
         </mxCell>
         <mxCell id="bayTr0J5FJKMcmt-mkjU-6" value="应用层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="40" y="240.58823529411765" width="37.89473684210527" height="77.64705882352942" as="geometry" />
         </mxCell>
         <mxCell id="bayTr0J5FJKMcmt-mkjU-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="90.5263157894737" y="117.64705882352942" width="669.4736842105264" height="90.58823529411765" as="geometry" />
+          <mxGeometry x="90.53" y="120" width="669.47" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bayTr0J5FJKMcmt-mkjU-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="90.5263157894737" y="234.11764705882354" width="669.4736842105264" height="90.58823529411765" as="geometry" />
@@ -83,19 +83,19 @@
           <mxGeometry x="393.68105263157895" y="910.0029411764706" width="126.3157894736842" height="42.05882352941177" as="geometry" />
         </mxCell>
         <mxCell id="bayTr0J5FJKMcmt-mkjU-37" value="问答输入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="115.78947368421053" y="141.91176470588238" width="101.05263157894738" height="42.05882352941177" as="geometry" />
+          <mxGeometry x="115.78947368421053" y="138.97176470588238" width="101.05263157894738" height="42.05882352941177" as="geometry" />
         </mxCell>
         <mxCell id="bayTr0J5FJKMcmt-mkjU-38" value="结果展示" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="242.10526315789477" y="141.91176470588238" width="101.05263157894738" height="42.05882352941177" as="geometry" />
+          <mxGeometry x="242.10526315789477" y="138.97176470588238" width="101.05263157894738" height="42.05882352941177" as="geometry" />
         </mxCell>
         <mxCell id="bayTr0J5FJKMcmt-mkjU-39" value="证据追溯" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="368.42105263157896" y="141.91176470588238" width="101.05263157894738" height="42.05882352941177" as="geometry" />
+          <mxGeometry x="368.42105263157896" y="138.97176470588238" width="101.05263157894738" height="42.05882352941177" as="geometry" />
         </mxCell>
         <mxCell id="bayTr0J5FJKMcmt-mkjU-40" value="历史记录" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="494.7368421052631" y="141.91176470588238" width="101.05263157894738" height="42.05882352941177" as="geometry" />
+          <mxGeometry x="494.7368421052631" y="138.97176470588238" width="101.05263157894738" height="42.05882352941177" as="geometry" />
         </mxCell>
         <mxCell id="bayTr0J5FJKMcmt-mkjU-41" value="知识库管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="621.0526315789474" y="141.91176470588238" width="101.05263157894738" height="42.05882352941177" as="geometry" />
+          <mxGeometry x="621.0526315789474" y="138.97176470588238" width="101.05263157894738" height="42.05882352941177" as="geometry" />
         </mxCell>
         <mxCell id="bayTr0J5FJKMcmt-mkjU-42" value="历史会话记录" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;glass=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="545.2584210526317" y="910.0029411764706" width="126.3157894736842" height="42.05882352941177" as="geometry" />
