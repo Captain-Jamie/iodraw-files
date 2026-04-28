@@ -185,13 +185,13 @@
           <mxGeometry x="576.84" y="421.17" width="164.21" height="31.18" as="geometry" />
         </mxCell>
         <mxCell id="bayTr0J5FJKMcmt-mkjU-91" value="切片检索召回" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="576.84" y="462.35" width="164.21" height="30" as="geometry" />
+          <mxGeometry x="576.84" y="462.35" width="153.16" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bayTr0J5FJKMcmt-mkjU-92" value="查询文档列表" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="576.84" y="502.35" width="164.21" height="33.2" as="geometry" />
+          <mxGeometry x="590" y="502.35" width="140" height="33.2" as="geometry" />
         </mxCell>
         <mxCell id="bayTr0J5FJKMcmt-mkjU-93" value="生效、失效、删除" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="576.84" y="546.35" width="153.16" height="31.76" as="geometry" />
+          <mxGeometry x="590" y="546.35" width="140" height="31.76" as="geometry" />
         </mxCell>
         <mxCell id="bayTr0J5FJKMcmt-mkjU-94" value="知识库问答" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="576.84" y="585.41" width="164.21" height="30" as="geometry" />
