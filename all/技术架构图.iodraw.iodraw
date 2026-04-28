@@ -8,7 +8,7 @@
           <mxGeometry x="195" y="620" width="530" height="102" as="geometry" />
         </mxCell>
         <mxCell id="bayTr0J5FJKMcmt-mkjU-116" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;glass=1;" vertex="1" parent="1">
-          <mxGeometry x="475" y="632" width="230" height="80" as="geometry" />
+          <mxGeometry x="475" y="632" width="230" height="78" as="geometry" />
         </mxCell>
         <mxCell id="bayTr0J5FJKMcmt-mkjU-115" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;glass=1;" vertex="1" parent="1">
           <mxGeometry x="215" y="632" width="230" height="78" as="geometry" />
@@ -71,10 +71,10 @@
           <mxGeometry x="155" y="625" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bayTr0J5FJKMcmt-mkjU-26" value="方案数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="600" y="669.75" width="100" height="32.5" as="geometry" />
+          <mxGeometry x="605" y="660" width="100" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="bayTr0J5FJKMcmt-mkjU-28" value="法规/标准文档" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="485" y="669.75" width="100" height="32.5" as="geometry" />
+          <mxGeometry x="490" y="660" width="100" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="bayTr0J5FJKMcmt-mkjU-30" value="结构化校验规则" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="225" y="660" width="100" height="32.5" as="geometry" />
