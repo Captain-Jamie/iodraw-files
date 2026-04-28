@@ -65,13 +65,13 @@
           <mxGeometry x="195" y="628" width="530" height="132" as="geometry" />
         </mxCell>
         <mxCell id="bayTr0J5FJKMcmt-mkjU-26" value="方案数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="345" y="690" width="100" height="32.5" as="geometry" />
+          <mxGeometry x="465" y="646.75" width="100" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="bayTr0J5FJKMcmt-mkjU-28" value="法规/标准文档" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="345" y="646.75" width="100" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="bayTr0J5FJKMcmt-mkjU-30" value="结构化校验规则" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="475" y="646.75" width="100" height="32.5" as="geometry" />
+          <mxGeometry x="480" y="690" width="100" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="bayTr0J5FJKMcmt-mkjU-37" value="问答输入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="215" y="118.75" width="80" height="32.5" as="geometry" />
@@ -89,7 +89,7 @@
           <mxGeometry x="615" y="118.75" width="80" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="bayTr0J5FJKMcmt-mkjU-42" value="历史校验结果" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="605" y="646.75" width="100" height="32.5" as="geometry" />
+          <mxGeometry x="595" y="690" width="100" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="bayTr0J5FJKMcmt-mkjU-44" value="知识库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="670" y="280" width="55" height="25" as="geometry" />
