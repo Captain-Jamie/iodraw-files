@@ -20,7 +20,7 @@
           <mxGeometry x="115.78947368421053" y="1043.7676470588235" width="290.5263157894737" height="100.94117647058825" as="geometry" />
         </mxCell>
         <mxCell id="bayTr0J5FJKMcmt-mkjU-47" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;glass=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="350.5882352941177" width="492.63157894736844" height="401.1764705882353" as="geometry" />
+          <mxGeometry x="40" y="350.59" width="492.63" height="539.41" as="geometry" />
         </mxCell>
         <mxCell id="bayTr0J5FJKMcmt-mkjU-1" value="交互入口" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="40" y="40" width="720" height="51.76470588235294" as="geometry" />
@@ -248,13 +248,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bayTr0J5FJKMcmt-mkjU-127" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;glass=1;" vertex="1" parent="1">
-          <mxGeometry x="115.79000000000002" y="928.24" width="170" height="90" as="geometry" />
+          <mxGeometry x="52.63000000000002" y="751.77" width="170" height="90" as="geometry" />
         </mxCell>
         <mxCell id="bayTr0J5FJKMcmt-mkjU-128" value="存储层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="216.31631578947366" y="928.2382352941178" width="69.47368421052632" height="32.35294117647059" as="geometry" />
+          <mxGeometry x="153.15631578947367" y="751.7682352941177" width="69.47368421052632" height="32.35294117647059" as="geometry" />
         </mxCell>
         <mxCell id="bayTr0J5FJKMcmt-mkjU-129" value="向量数据库" style="shape=datastore;whiteSpace=wrap;html=1;fontSize=16;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
-          <mxGeometry x="132.10000000000008" y="956.7099999999999" width="95.79" height="50" as="geometry" />
+          <mxGeometry x="68.94000000000008" y="780.2399999999999" width="95.79" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
