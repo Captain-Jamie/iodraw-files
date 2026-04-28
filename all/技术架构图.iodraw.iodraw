@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="gpNMsj4l2AE6tQ90kk9u">
-    <mxGraphModel dx="508" dy="251" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="732" dy="361" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -65,10 +65,10 @@
           <mxGeometry x="195" y="628" width="530" height="132" as="geometry" />
         </mxCell>
         <mxCell id="bayTr0J5FJKMcmt-mkjU-26" value="方案数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="555" y="710" width="100" height="32.5" as="geometry" />
+          <mxGeometry x="590" y="710" width="100" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="bayTr0J5FJKMcmt-mkjU-28" value="法规/标准文档" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="475" y="710" width="100" height="32.5" as="geometry" />
+          <mxGeometry x="480" y="710" width="100" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="bayTr0J5FJKMcmt-mkjU-30" value="结构化校验规则" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="240" y="710" width="100" height="32.5" as="geometry" />
@@ -216,6 +216,9 @@
             <mxPoint x="355" y="628" as="sourcePoint" />
             <mxPoint x="355" y="590" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="bayTr0J5FJKMcmt-mkjU-115" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;glass=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="680" width="505" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
