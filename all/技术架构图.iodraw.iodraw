@@ -71,19 +71,19 @@
           <mxGeometry x="600" y="343.75" width="120" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="bayTr0J5FJKMcmt-mkjU-37" value="问答输入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="229" y="108.75" width="80" height="32.5" as="geometry" />
+          <mxGeometry x="220" y="108.75" width="80" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="bayTr0J5FJKMcmt-mkjU-38" value="结果展示" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="329" y="108.75" width="80" height="32.5" as="geometry" />
+          <mxGeometry x="320" y="108.75" width="80" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="bayTr0J5FJKMcmt-mkjU-39" value="证据追溯" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="429" y="108.75" width="80" height="32.5" as="geometry" />
+          <mxGeometry x="420" y="108.75" width="80" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="bayTr0J5FJKMcmt-mkjU-40" value="历史记录" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="529" y="108.75" width="80" height="32.5" as="geometry" />
+          <mxGeometry x="520" y="108.75" width="80" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="bayTr0J5FJKMcmt-mkjU-41" value="知识库管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="629" y="108.75" width="80" height="32.5" as="geometry" />
+          <mxGeometry x="620" y="108.75" width="80" height="32.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
