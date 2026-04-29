@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="AnGsgY-nTlRYJzshRXLc-2" value="用户" style="whiteSpace=wrap;strokeWidth=1;fontSize=16;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="347.5" y="80" width="88.5" height="60" as="geometry" />
+          <mxGeometry x="347.5" y="90" width="88.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AnGsgY-nTlRYJzshRXLc-3" value="Web" style="rounded=1;arcSize=20;strokeWidth=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="575" y="81" width="85" height="59" as="geometry" />
+          <mxGeometry x="565" y="91" width="85" height="59" as="geometry" />
         </mxCell>
         <mxCell id="AnGsgY-nTlRYJzshRXLc-16" value="chat_service" style="rounded=1;arcSize=20;strokeWidth=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="327.5" y="210.5" width="140" height="67" as="geometry" />
