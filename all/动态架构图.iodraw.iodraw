@@ -59,6 +59,16 @@
         <mxCell id="AnGsgY-nTlRYJzshRXLc-35" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;ol style=&quot;margin: 0; padding-left: 23px&quot; class=&quot;ne-ol&quot; start=&quot;3&quot;&gt;&lt;li data-lake-index-type=&quot;0&quot; id=&quot;ufcf7d8a8&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;校验任务触发&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="440" y="220" width="130" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="AnGsgY-nTlRYJzshRXLc-37" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" target="AnGsgY-nTlRYJzshRXLc-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="221" as="sourcePoint" />
+            <mxPoint x="650" y="130" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="410" y="170" />
+              <mxPoint x="650" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
