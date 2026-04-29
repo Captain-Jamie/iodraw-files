@@ -22,7 +22,7 @@
         <mxCell id="AnGsgY-nTlRYJzshRXLc-8" value="聊天消息新增、会话状态更新" style="rounded=1;arcSize=20;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="221" y="542" width="223" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="AnGsgY-nTlRYJzshRXLc-16" value="校验任务触发" style="rounded=1;arcSize=20;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="AnGsgY-nTlRYJzshRXLc-16" value="chat_router" style="rounded=1;arcSize=20;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="160" y="160" width="223" height="67" as="geometry" />
         </mxCell>
       </root>
