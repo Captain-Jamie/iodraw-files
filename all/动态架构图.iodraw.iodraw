@@ -10,9 +10,6 @@
         <mxCell id="AnGsgY-nTlRYJzshRXLc-3" value="Web" style="rounded=1;arcSize=20;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="480" y="60.5" width="85" height="59" as="geometry" />
         </mxCell>
-        <mxCell id="AnGsgY-nTlRYJzshRXLc-5" value="创建工作流实例" style="whiteSpace=wrap;strokeWidth=1;fontSize=14;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="350" width="173" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="AnGsgY-nTlRYJzshRXLc-6" value="返回校验结果与引用证据" style="whiteSpace=wrap;strokeWidth=1;fontSize=14;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="339" y="440" width="236" height="49" as="geometry" />
         </mxCell>
@@ -26,7 +23,7 @@
           <mxGeometry x="160" y="190" width="140" height="67" as="geometry" />
         </mxCell>
         <mxCell id="AnGsgY-nTlRYJzshRXLc-17" value="validate_service" style="rounded=1;arcSize=20;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="387" y="190" width="140" height="67" as="geometry" />
+          <mxGeometry x="199" y="310" width="140" height="67" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
