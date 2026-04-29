@@ -55,6 +55,9 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="AnGsgY-nTlRYJzshRXLc-16" value="聊天消息新增，会话状态更新" style="rounded=1;arcSize=20;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="400" width="223" height="67" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
