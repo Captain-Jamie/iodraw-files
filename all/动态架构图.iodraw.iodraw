@@ -82,8 +82,8 @@
         <mxCell id="AnGsgY-nTlRYJzshRXLc-42" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;7. 新结构化规则入库&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="444" y="310" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="AnGsgY-nTlRYJzshRXLc-43" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;7. 新结构化规则入库&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="454" y="320" width="130" height="20" as="geometry" />
+        <mxCell id="AnGsgY-nTlRYJzshRXLc-43" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;8. 返回系统答复&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="445.25" y="160" width="130" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
