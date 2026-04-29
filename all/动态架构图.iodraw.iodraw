@@ -53,8 +53,11 @@
         <mxCell id="AnGsgY-nTlRYJzshRXLc-30" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;ol style=&quot;margin: 0; padding-left: 23px&quot; class=&quot;ne-ol&quot;&gt;&lt;li data-lake-index-type=&quot;0&quot; id=&quot;u3bffa2bd&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;提交方案/发起问答&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="432.5" y="70" width="132.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="AnGsgY-nTlRYJzshRXLc-31" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;ol style=&quot;margin: 0; padding-left: 23px&quot; class=&quot;ne-ol&quot;&gt;&lt;li data-lake-index-type=&quot;0&quot; id=&quot;u3bffa2bd&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;ol style=&quot;margin: 0; padding-left: 23px&quot; class=&quot;ne-ol&quot; start=&quot;2&quot;&gt;&lt;li data-lake-index-type=&quot;0&quot; id=&quot;u7f6143e6&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;聊天消息新增，会话状态更新&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="442.5" y="140" width="132.5" height="20" as="geometry" />
+        <mxCell id="AnGsgY-nTlRYJzshRXLc-31" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;ol style=&quot;margin: 0; padding-left: 23px&quot; class=&quot;ne-ol&quot;&gt;&lt;li data-lake-index-type=&quot;0&quot; id=&quot;u3bffa2bd&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;提交方案/发起问答&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="452" y="140" width="132.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AnGsgY-nTlRYJzshRXLc-32" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="515" y="138" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
