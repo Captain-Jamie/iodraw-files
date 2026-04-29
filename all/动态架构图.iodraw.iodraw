@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="AnGsgY-nTlRYJzshRXLc-2" value="提交方案/发起问答" style="whiteSpace=wrap;strokeWidth=1;fontSize=14;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="129" y="160" width="198" height="49" as="geometry" />
+          <mxGeometry x="70" y="150" width="151" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AnGsgY-nTlRYJzshRXLc-3" value="聊天消息新增，会话状态更新" style="rounded=1;arcSize=20;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="360" y="151" width="223" height="59" as="geometry" />
+          <mxGeometry x="270" y="151" width="223" height="59" as="geometry" />
         </mxCell>
         <mxCell id="AnGsgY-nTlRYJzshRXLc-5" value="创建工作流实例" style="whiteSpace=wrap;strokeWidth=1;fontSize=14;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="142" y="571" width="173" height="49" as="geometry" />
