@@ -25,6 +25,9 @@
         <mxCell id="AnGsgY-nTlRYJzshRXLc-16" value="chat_service" style="rounded=1;arcSize=20;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="160" y="190" width="140" height="67" as="geometry" />
         </mxCell>
+        <mxCell id="AnGsgY-nTlRYJzshRXLc-17" value="chat_service" style="rounded=1;arcSize=20;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="170" y="200" width="140" height="67" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
