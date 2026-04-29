@@ -4,11 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="AnGsgY-nTlRYJzshRXLc-2" value="提交方案/发起问答" style="whiteSpace=wrap;strokeWidth=1;fontSize=14;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="137.5" y="60" width="151" height="60" as="geometry" />
+        <mxCell id="AnGsgY-nTlRYJzshRXLc-2" value="用户" style="whiteSpace=wrap;strokeWidth=1;fontSize=14;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="60" width="88.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AnGsgY-nTlRYJzshRXLc-3" value="Web" style="rounded=1;arcSize=20;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="440" y="61" width="85" height="59" as="geometry" />
+          <mxGeometry x="480" y="60.5" width="85" height="59" as="geometry" />
         </mxCell>
         <mxCell id="AnGsgY-nTlRYJzshRXLc-5" value="创建工作流实例" style="whiteSpace=wrap;strokeWidth=1;fontSize=14;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="288.5" y="350" width="173" height="49" as="geometry" />
