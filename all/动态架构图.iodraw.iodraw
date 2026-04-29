@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="AnGsgY-nTlRYJzshRXLc-2" value="提交方案/发起问答" style="whiteSpace=wrap;strokeWidth=1;fontSize=14;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="119" y="60" width="151" height="60" as="geometry" />
+          <mxGeometry x="137.5" y="60" width="151" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AnGsgY-nTlRYJzshRXLc-3" value="Web" style="rounded=1;arcSize=20;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="440" y="61" width="85" height="59" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry x="221" y="542" width="223" height="67" as="geometry" />
         </mxCell>
         <mxCell id="AnGsgY-nTlRYJzshRXLc-16" value="chat_router" style="rounded=1;arcSize=20;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="160" y="160" width="223" height="67" as="geometry" />
+          <mxGeometry x="160" y="190" width="140" height="67" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
