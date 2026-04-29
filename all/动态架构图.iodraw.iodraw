@@ -53,6 +53,9 @@
         <mxCell id="AnGsgY-nTlRYJzshRXLc-30" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;ol style=&quot;margin: 0; padding-left: 23px&quot; class=&quot;ne-ol&quot;&gt;&lt;li data-lake-index-type=&quot;0&quot; id=&quot;u3bffa2bd&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;提交方案/发起问答&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="432.5" y="70" width="132.5" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="AnGsgY-nTlRYJzshRXLc-31" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;ol style=&quot;margin: 0; padding-left: 23px&quot; class=&quot;ne-ol&quot;&gt;&lt;li data-lake-index-type=&quot;0&quot; id=&quot;u3bffa2bd&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;提交方案/发起问答&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="442.5" y="80" width="132.5" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
