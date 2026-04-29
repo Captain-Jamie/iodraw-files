@@ -19,6 +19,9 @@
         <mxCell id="AnGsgY-nTlRYJzshRXLc-16" value="chat_service" style="rounded=1;arcSize=20;strokeWidth=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="327.5" y="210.5" width="140" height="67" as="geometry" />
         </mxCell>
+        <mxCell id="AnGsgY-nTlRYJzshRXLc-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AnGsgY-nTlRYJzshRXLc-17" target="AnGsgY-nTlRYJzshRXLc-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AnGsgY-nTlRYJzshRXLc-17" value="validate_service" style="rounded=1;arcSize=20;strokeWidth=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="570" y="210.5" width="140" height="67" as="geometry" />
         </mxCell>
