@@ -64,8 +64,8 @@
         <mxCell id="AnGsgY-nTlRYJzshRXLc-31" value="&lt;span class=&quot;ne-text&quot;&gt;新增聊天消息，&lt;/span&gt;&lt;div&gt;更新会话&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="300" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AnGsgY-nTlRYJzshRXLc-33" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;ol style=&quot;margin: 0; padding-left: 23px&quot; class=&quot;ne-ol&quot; start=&quot;2&quot;&gt;&lt;li data-lake-index-type=&quot;0&quot; id=&quot;u7f6143e6&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;新增智能体聊天消息，更新会话&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="420" y="160" width="198" height="20" as="geometry" />
+        <mxCell id="AnGsgY-nTlRYJzshRXLc-33" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;ol style=&quot;margin: 0; padding-left: 23px&quot; class=&quot;ne-ol&quot; start=&quot;2&quot;&gt;&lt;li data-lake-index-type=&quot;0&quot; id=&quot;u7f6143e6&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;调用服务处理query&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="140" width="198" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AnGsgY-nTlRYJzshRXLc-35" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;ol style=&quot;margin: 0; padding-left: 23px&quot; class=&quot;ne-ol&quot; start=&quot;3&quot;&gt;&lt;li data-lake-index-type=&quot;0&quot; id=&quot;ufcf7d8a8&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;校验任务触发&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="440" y="220" width="130" height="20" as="geometry" />
