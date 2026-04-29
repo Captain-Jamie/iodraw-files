@@ -73,7 +73,7 @@
         <mxCell id="AnGsgY-nTlRYJzshRXLc-38" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;4. 调用RAG检索&lt;span style=&quot;background-color: initial;&quot;&gt;接口&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="320" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="AnGsgY-nTlRYJzshRXLc-39" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;4. 调用RAG检索&lt;span style=&quot;background-color: initial;&quot;&gt;接口&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="AnGsgY-nTlRYJzshRXLc-39" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;5. 召回相关证据&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="290" width="130" height="20" as="geometry" />
         </mxCell>
       </root>
