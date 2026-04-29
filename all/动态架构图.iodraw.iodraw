@@ -54,7 +54,7 @@
           <mxGeometry x="310" y="300" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AnGsgY-nTlRYJzshRXLc-33" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;2. 调用服务处理query&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="442.75" y="140" width="140" height="20" as="geometry" />
+          <mxGeometry x="390" y="180" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AnGsgY-nTlRYJzshRXLc-35" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;3. 校验任务触发&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="440" y="220" width="130" height="20" as="geometry" />
@@ -83,7 +83,7 @@
           <mxGeometry x="444" y="310" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AnGsgY-nTlRYJzshRXLc-43" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;8. 返回系统答复&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="445.25" y="160" width="130" height="20" as="geometry" />
+          <mxGeometry x="530" y="130" width="130" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
