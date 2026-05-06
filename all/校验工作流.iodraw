@@ -109,7 +109,7 @@
         <mxCell id="HgXqyc-lnIB8_Z8BMaUG-9" value="validate_service" style="rounded=1;arcSize=20;strokeWidth=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="480" y="609" width="130" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="HgXqyc-lnIB8_Z8BMaUG-11" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;2. 数据处理与检索规划&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="HgXqyc-lnIB8_Z8BMaUG-11" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;数据处理与检索规划&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="540" y="585" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HgXqyc-lnIB8_Z8BMaUG-13" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="HgXqyc-lnIB8_Z8BMaUG-8">
