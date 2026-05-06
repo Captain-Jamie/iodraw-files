@@ -112,6 +112,9 @@
         <mxCell id="HgXqyc-lnIB8_Z8BMaUG-8" value="RAG知识库" style="rounded=1;arcSize=20;strokeWidth=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="30" y="659" width="130" height="67" as="geometry" />
         </mxCell>
+        <mxCell id="HgXqyc-lnIB8_Z8BMaUG-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HgXqyc-lnIB8_Z8BMaUG-9" target="HgXqyc-lnIB8_Z8BMaUG-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HgXqyc-lnIB8_Z8BMaUG-9" value="validate_service" style="rounded=1;arcSize=20;strokeWidth=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="480" y="609" width="130" height="67" as="geometry" />
         </mxCell>
@@ -131,7 +134,7 @@
           <mxGeometry x="10" y="609" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HgXqyc-lnIB8_Z8BMaUG-16" value="validate_service" style="rounded=1;arcSize=20;strokeWidth=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="480" y="720" width="130" height="67" as="geometry" />
+          <mxGeometry x="480" y="730" width="130" height="67" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
