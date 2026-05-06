@@ -128,7 +128,10 @@
           <mxGeometry x="480" y="730" width="130" height="67" as="geometry" />
         </mxCell>
         <mxCell id="HgXqyc-lnIB8_Z8BMaUG-18" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;2. 结构化规则&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="530" y="706" width="150" height="20" as="geometry" />
+          <mxGeometry x="370" y="629" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HgXqyc-lnIB8_Z8BMaUG-19" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;数据处理与检索规划&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="595" width="150" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
