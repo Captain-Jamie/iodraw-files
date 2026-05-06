@@ -100,7 +100,7 @@
         <mxCell id="HgXqyc-lnIB8_Z8BMaUG-2" value="validate_service" style="rounded=1;arcSize=20;strokeWidth=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="350" y="480" width="130" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="HgXqyc-lnIB8_Z8BMaUG-5" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;1. 提交&lt;span style=&quot;background-color: initial;&quot;&gt;方案/发起问答&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="HgXqyc-lnIB8_Z8BMaUG-5" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;1. 触发校验任务&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="490" width="132.5" height="20" as="geometry" />
         </mxCell>
       </root>
