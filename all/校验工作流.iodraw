@@ -91,48 +91,6 @@
         <mxCell id="AnGsgY-nTlRYJzshRXLc-45" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;8. 返回校验结构&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="450" y="250" width="102.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="HgXqyc-lnIB8_Z8BMaUG-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HgXqyc-lnIB8_Z8BMaUG-2" target="HgXqyc-lnIB8_Z8BMaUG-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="HgXqyc-lnIB8_Z8BMaUG-2" value="validate_service" style="rounded=1;arcSize=20;strokeWidth=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="480" y="490" width="130" height="67" as="geometry" />
-        </mxCell>
-        <mxCell id="HgXqyc-lnIB8_Z8BMaUG-7" value="PostgreSQL" style="rounded=1;arcSize=20;strokeWidth=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="305" y="610" width="100" height="67" as="geometry" />
-        </mxCell>
-        <mxCell id="HgXqyc-lnIB8_Z8BMaUG-8" value="RAG知识库" style="rounded=1;arcSize=20;strokeWidth=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="30" y="659" width="130" height="67" as="geometry" />
-        </mxCell>
-        <mxCell id="HgXqyc-lnIB8_Z8BMaUG-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HgXqyc-lnIB8_Z8BMaUG-9" target="HgXqyc-lnIB8_Z8BMaUG-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="HgXqyc-lnIB8_Z8BMaUG-9" value="validate_service" style="rounded=1;arcSize=20;strokeWidth=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="480" y="609" width="130" height="67" as="geometry" />
-        </mxCell>
-        <mxCell id="HgXqyc-lnIB8_Z8BMaUG-11" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;数据处理与检索规划&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="540" y="585" width="150" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="HgXqyc-lnIB8_Z8BMaUG-13" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="HgXqyc-lnIB8_Z8BMaUG-8">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-90" y="669" as="sourcePoint" />
-            <mxPoint x="95" y="606" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HgXqyc-lnIB8_Z8BMaUG-14" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;3. 多路检索&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="633.5" width="90" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="HgXqyc-lnIB8_Z8BMaUG-15" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;4. 证据召回&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="10" y="609" width="90" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="HgXqyc-lnIB8_Z8BMaUG-16" value="validate_service" style="rounded=1;arcSize=20;strokeWidth=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="480" y="730" width="130" height="67" as="geometry" />
-        </mxCell>
-        <mxCell id="HgXqyc-lnIB8_Z8BMaUG-18" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;2. 结构化规则&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="370" y="629" width="150" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="HgXqyc-lnIB8_Z8BMaUG-19" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;数据处理与检索规划&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="550" y="595" width="150" height="20" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
