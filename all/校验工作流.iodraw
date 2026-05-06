@@ -113,7 +113,7 @@
           <mxGeometry x="30" y="659" width="130" height="67" as="geometry" />
         </mxCell>
         <mxCell id="HgXqyc-lnIB8_Z8BMaUG-9" value="validate_service" style="rounded=1;arcSize=20;strokeWidth=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="480" y="620" width="130" height="67" as="geometry" />
+          <mxGeometry x="480" y="609" width="130" height="67" as="geometry" />
         </mxCell>
         <mxCell id="HgXqyc-lnIB8_Z8BMaUG-11" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;2. 数据处理与检索规划&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="590" width="150" height="20" as="geometry" />
@@ -131,7 +131,7 @@
           <mxGeometry x="10" y="609" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HgXqyc-lnIB8_Z8BMaUG-16" value="validate_service" style="rounded=1;arcSize=20;strokeWidth=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="480" y="610" width="130" height="67" as="geometry" />
+          <mxGeometry x="480" y="720" width="130" height="67" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
