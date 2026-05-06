@@ -91,6 +91,9 @@
         <mxCell id="AnGsgY-nTlRYJzshRXLc-45" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;8. 返回校验结构&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="450" y="250" width="102.5" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="HgXqyc-lnIB8_Z8BMaUG-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HgXqyc-lnIB8_Z8BMaUG-1" target="HgXqyc-lnIB8_Z8BMaUG-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HgXqyc-lnIB8_Z8BMaUG-1" value="chat_service" style="rounded=1;arcSize=20;strokeWidth=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="110" y="480" width="100" height="67" as="geometry" />
         </mxCell>
@@ -98,7 +101,7 @@
           <mxGeometry x="350" y="480" width="130" height="67" as="geometry" />
         </mxCell>
         <mxCell id="HgXqyc-lnIB8_Z8BMaUG-5" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;1. 提交&lt;span style=&quot;background-color: initial;&quot;&gt;方案/发起问答&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="222.75" y="447" width="132.5" height="20" as="geometry" />
+          <mxGeometry x="210" y="490" width="132.5" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
