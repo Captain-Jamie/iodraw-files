@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="13FqCM0XTzoFoVohymnT">
-    <mxGraphModel dx="1730" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="903" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,100 +8,100 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AnGsgY-nTlRYJzshRXLc-2" value="用户" style="whiteSpace=wrap;strokeWidth=1;fontSize=16;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="397.5" y="70" width="88.5" height="60" as="geometry" />
+          <mxGeometry x="404.5" y="70" width="88.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AnGsgY-nTlRYJzshRXLc-3" value="Web" style="rounded=1;arcSize=20;strokeWidth=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="670" y="71" width="85" height="59" as="geometry" />
+          <mxGeometry x="677" y="71" width="85" height="59" as="geometry" />
         </mxCell>
         <mxCell id="AnGsgY-nTlRYJzshRXLc-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="AnGsgY-nTlRYJzshRXLc-16" target="AnGsgY-nTlRYJzshRXLc-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AnGsgY-nTlRYJzshRXLc-16" value="chat_service" style="rounded=1;arcSize=20;strokeWidth=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="400" y="220.5" width="100" height="67" as="geometry" />
+          <mxGeometry x="407" y="220.5" width="100" height="67" as="geometry" />
         </mxCell>
         <mxCell id="AnGsgY-nTlRYJzshRXLc-17" value="validate_service" style="rounded=1;arcSize=20;strokeWidth=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="630" y="220.5" width="130" height="67" as="geometry" />
+          <mxGeometry x="637" y="220.5" width="130" height="67" as="geometry" />
         </mxCell>
         <mxCell id="AnGsgY-nTlRYJzshRXLc-18" value="RAG知识库" style="rounded=1;arcSize=20;strokeWidth=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="630" y="390" width="130" height="67" as="geometry" />
+          <mxGeometry x="637" y="390" width="130" height="67" as="geometry" />
         </mxCell>
         <mxCell id="AnGsgY-nTlRYJzshRXLc-19" value="PostgreSQL" style="rounded=1;arcSize=20;strokeWidth=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="400" y="390" width="100" height="67" as="geometry" />
+          <mxGeometry x="407" y="390" width="100" height="67" as="geometry" />
         </mxCell>
         <mxCell id="AnGsgY-nTlRYJzshRXLc-24" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="AnGsgY-nTlRYJzshRXLc-16" target="AnGsgY-nTlRYJzshRXLc-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="490" y="300" as="sourcePoint" />
-            <mxPoint x="540" y="250" as="targetPoint" />
+            <mxPoint x="497" y="300" as="sourcePoint" />
+            <mxPoint x="547" y="250" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="450" y="170" />
-              <mxPoint x="713" y="170" />
+              <mxPoint x="457" y="170" />
+              <mxPoint x="720" y="170" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="AnGsgY-nTlRYJzshRXLc-28" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="AnGsgY-nTlRYJzshRXLc-18" target="AnGsgY-nTlRYJzshRXLc-17" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="632.5" y="290" as="sourcePoint" />
-            <mxPoint x="682.5" y="240" as="targetPoint" />
+            <mxPoint x="639.5" y="290" as="sourcePoint" />
+            <mxPoint x="689.5" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AnGsgY-nTlRYJzshRXLc-30" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;1. 提交&lt;span style=&quot;background-color: initial;&quot;&gt;方案/发起问答&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="492.75" y="80" width="132.5" height="20" as="geometry" />
+          <mxGeometry x="499.75" y="80" width="132.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AnGsgY-nTlRYJzshRXLc-31" value="&lt;span class=&quot;ne-text&quot;&gt;新增聊天消息&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;更新聊天会话&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="360" y="310" width="90" height="30" as="geometry" />
+          <mxGeometry x="367" y="310" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AnGsgY-nTlRYJzshRXLc-33" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;2. 调用服务处理query&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="440" y="190" width="140" height="20" as="geometry" />
+          <mxGeometry x="447" y="190" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AnGsgY-nTlRYJzshRXLc-35" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;3. 校验任务触发&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="527.5" y="230" width="102.5" height="20" as="geometry" />
+          <mxGeometry x="534.5" y="230" width="102.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AnGsgY-nTlRYJzshRXLc-37" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" parent="1" source="AnGsgY-nTlRYJzshRXLc-19" target="AnGsgY-nTlRYJzshRXLc-17" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="460" y="231" as="sourcePoint" />
-            <mxPoint x="700" y="140" as="targetPoint" />
+            <mxPoint x="467" y="231" as="sourcePoint" />
+            <mxPoint x="707" y="140" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="475" y="320" />
-              <mxPoint x="570" y="320" />
-              <mxPoint x="663" y="320" />
+              <mxPoint x="482" y="320" />
+              <mxPoint x="577" y="320" />
+              <mxPoint x="670" y="320" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="AnGsgY-nTlRYJzshRXLc-38" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;4. 调用RAG检索&lt;span style=&quot;background-color: initial;&quot;&gt;接口&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="690" y="360" width="130" height="20" as="geometry" />
+          <mxGeometry x="697" y="360" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AnGsgY-nTlRYJzshRXLc-39" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;5. 召回相关证据&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="690" y="300" width="100" height="20" as="geometry" />
+          <mxGeometry x="697" y="300" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AnGsgY-nTlRYJzshRXLc-40" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;6. 检索结构化规则复用&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="530" y="300" width="130" height="20" as="geometry" />
+          <mxGeometry x="537" y="300" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AnGsgY-nTlRYJzshRXLc-42" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;7. 新结构化规则入库&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="470" y="360" width="130" height="20" as="geometry" />
+          <mxGeometry x="477" y="360" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AnGsgY-nTlRYJzshRXLc-43" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;9. 返回系统答复&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="620" y="140" width="97.5" height="20" as="geometry" />
+          <mxGeometry x="627" y="140" width="97.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AnGsgY-nTlRYJzshRXLc-44" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="AnGsgY-nTlRYJzshRXLc-16" target="AnGsgY-nTlRYJzshRXLc-17" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480" y="310" as="sourcePoint" />
-            <mxPoint x="530" y="260" as="targetPoint" />
+            <mxPoint x="487" y="310" as="sourcePoint" />
+            <mxPoint x="537" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AnGsgY-nTlRYJzshRXLc-45" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;8. 返回校验结构&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="500" y="260" width="102.5" height="20" as="geometry" />
+          <mxGeometry x="507" y="260" width="102.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="dv3bGbCSZofhneEN8UU7-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dv3bGbCSZofhneEN8UU7-2" target="dv3bGbCSZofhneEN8UU7-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dv3bGbCSZofhneEN8UU7-2" value="短期记忆" style="whiteSpace=wrap;strokeWidth=1;fontSize=16;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-52.5" y="60" width="88.5" height="60" as="geometry" />
+          <mxGeometry x="50" y="61" width="88.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dv3bGbCSZofhneEN8UU7-3" value="memory_service" style="rounded=1;arcSize=20;strokeWidth=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="220" y="61" width="130" height="59" as="geometry" />
         </mxCell>
         <mxCell id="dv3bGbCSZofhneEN8UU7-4" value="chat_service" style="rounded=1;arcSize=20;strokeWidth=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="210.5" width="100" height="67" as="geometry" />
+          <mxGeometry x="52.5" y="211.5" width="100" height="67" as="geometry" />
         </mxCell>
         <mxCell id="dv3bGbCSZofhneEN8UU7-5" value="RAG知识库" style="rounded=1;arcSize=20;strokeWidth=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="220" y="223" width="130" height="67" as="geometry" />
