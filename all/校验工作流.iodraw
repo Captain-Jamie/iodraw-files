@@ -7,7 +7,7 @@
         <mxCell id="AnGsgY-nTlRYJzshRXLc-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AnGsgY-nTlRYJzshRXLc-2" target="AnGsgY-nTlRYJzshRXLc-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AnGsgY-nTlRYJzshRXLc-2" value="用户" style="whiteSpace=wrap;strokeWidth=1;fontSize=16;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="AnGsgY-nTlRYJzshRXLc-2" value="短期记忆" style="whiteSpace=wrap;strokeWidth=1;fontSize=16;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="347.5" y="60" width="88.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AnGsgY-nTlRYJzshRXLc-3" value="Web" style="rounded=1;arcSize=20;strokeWidth=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
