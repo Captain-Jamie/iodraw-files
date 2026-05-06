@@ -110,7 +110,7 @@
           <mxGeometry x="710" y="610" width="100" height="67" as="geometry" />
         </mxCell>
         <mxCell id="HgXqyc-lnIB8_Z8BMaUG-8" value="RAG知识库" style="rounded=1;arcSize=20;strokeWidth=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="10" y="610" width="130" height="67" as="geometry" />
+          <mxGeometry x="220" y="740" width="130" height="67" as="geometry" />
         </mxCell>
         <mxCell id="HgXqyc-lnIB8_Z8BMaUG-9" value="validate_service" style="rounded=1;arcSize=20;strokeWidth=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="220" y="610" width="130" height="67" as="geometry" />
@@ -118,7 +118,7 @@
         <mxCell id="HgXqyc-lnIB8_Z8BMaUG-11" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;2. 数据处理与检索规划&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="590" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="HgXqyc-lnIB8_Z8BMaUG-13" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="HgXqyc-lnIB8_Z8BMaUG-9">
+        <mxCell id="HgXqyc-lnIB8_Z8BMaUG-13" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="HgXqyc-lnIB8_Z8BMaUG-8" target="HgXqyc-lnIB8_Z8BMaUG-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="100" y="740" as="sourcePoint" />
             <mxPoint x="180" y="740" as="targetPoint" />
