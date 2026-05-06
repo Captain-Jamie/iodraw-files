@@ -127,8 +127,8 @@
         <mxCell id="HgXqyc-lnIB8_Z8BMaUG-14" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;3. 多路检索&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="710" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="HgXqyc-lnIB8_Z8BMaUG-15" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;3. 多路检索&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="290" y="720" width="90" height="20" as="geometry" />
+        <mxCell id="HgXqyc-lnIB8_Z8BMaUG-15" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;4. 证据召回&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="680" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
