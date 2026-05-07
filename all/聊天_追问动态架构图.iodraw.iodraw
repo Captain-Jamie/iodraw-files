@@ -41,7 +41,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Pkja0ZUV6_osHcOmfgIi-29" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;8.调用意图识别服务&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="525.5" y="223.5" width="140" height="20" as="geometry" />
+          <mxGeometry x="527.5" y="223.5" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Pkja0ZUV6_osHcOmfgIi-37" value="&lt;span class=&quot;ne-text&quot;&gt;3.新增用户消息，&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;更新聊天会话&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="293.5" width="175" height="30" as="geometry" />
@@ -89,7 +89,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Pkja0ZUV6_osHcOmfgIi-53" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;9.识别为闲聊直接回复&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="525.5" y="253.5" width="140" height="20" as="geometry" />
+          <mxGeometry x="531.5" y="253.5" width="140" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
