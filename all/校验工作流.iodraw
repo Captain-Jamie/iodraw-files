@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AnGsgY-nTlRYJzshRXLc-2" value="用户" style="whiteSpace=wrap;strokeWidth=1;fontSize=16;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="120" y="70" width="88.5" height="60" as="geometry" />
+          <mxGeometry x="404.5" y="70" width="88.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AnGsgY-nTlRYJzshRXLc-3" value="Web" style="rounded=1;arcSize=20;strokeWidth=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="677" y="71" width="85" height="59" as="geometry" />
@@ -90,6 +90,9 @@
         </mxCell>
         <mxCell id="AnGsgY-nTlRYJzshRXLc-45" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;8. 返回校验结构&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="507" y="260" width="102.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="b0YSRWX1-zdIaK3O9mq3-4" value="memory_service" style="rounded=1;arcSize=20;strokeWidth=1;fontSize=16;fillColor=#99FFCC;strokeColor=#006633;" vertex="1" parent="1">
+          <mxGeometry x="190" y="220.5" width="130" height="67" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
