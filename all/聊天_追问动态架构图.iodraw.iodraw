@@ -76,6 +76,9 @@
             <mxPoint x="490" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Pkja0ZUV6_osHcOmfgIi-50" value="&lt;span class=&quot;ne-text&quot;&gt;3.新增用户消息，&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;更新聊天会话&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="330" width="175" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
