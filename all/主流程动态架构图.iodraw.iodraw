@@ -1,11 +1,11 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="13FqCM0XTzoFoVohymnT">
-    <mxGraphModel dx="2231" dy="1358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1062" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="b0YSRWX1-zdIaK3O9mq3-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="40" width="840" height="640" as="geometry" />
+          <mxGeometry x="40" y="40" width="840" height="600" as="geometry" />
         </mxCell>
         <mxCell id="AnGsgY-nTlRYJzshRXLc-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AnGsgY-nTlRYJzshRXLc-2" target="AnGsgY-nTlRYJzshRXLc-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -46,26 +46,11 @@
         <mxCell id="AnGsgY-nTlRYJzshRXLc-33" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;2. 调用服务处理用户查询&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="345" y="180" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="AnGsgY-nTlRYJzshRXLc-35" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;3. 校验任务触发&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-172.5" y="-170" width="102.5" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="AnGsgY-nTlRYJzshRXLc-38" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;11. 调用RAG检索&lt;span style=&quot;background-color: initial;&quot;&gt;接口&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="735" y="560" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AnGsgY-nTlRYJzshRXLc-39" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;12. 召回相关证据&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="770" y="450" width="100" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="AnGsgY-nTlRYJzshRXLc-40" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;6. 检索结构化规则复用&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-170" y="-100" width="130" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="AnGsgY-nTlRYJzshRXLc-42" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;7. 新结构化规则入库&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-230" y="-40" width="130" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="AnGsgY-nTlRYJzshRXLc-43" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;9. 返回系统答复&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="34" y="-260" width="97.5" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="AnGsgY-nTlRYJzshRXLc-45" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;8. 返回校验结构&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-200" y="-140" width="102.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="b0YSRWX1-zdIaK3O9mq3-4" value="记忆服务" style="rounded=1;arcSize=20;strokeWidth=1;fontSize=16;fillColor=#CCFFE6;strokeColor=#006633;" vertex="1" parent="1">
           <mxGeometry x="70" y="220.5" width="110" height="67" as="geometry" />
