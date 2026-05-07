@@ -164,8 +164,8 @@
         <mxCell id="b0YSRWX1-zdIaK3O9mq3-38" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;4.返回长期记忆&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="17.75" y="300" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="b0YSRWX1-zdIaK3O9mq3-39" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;4.返回长期记忆&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="27.75" y="310" width="130" height="20" as="geometry" />
+        <mxCell id="b0YSRWX1-zdIaK3O9mq3-39" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;5.返回长期记忆&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="260" width="130" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
