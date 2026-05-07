@@ -68,10 +68,10 @@
           <mxGeometry x="580" y="220.5" width="140" height="67" as="geometry" />
         </mxCell>
         <mxCell id="b0YSRWX1-zdIaK3O9mq3-6" value="检索服务" style="rounded=1;arcSize=20;strokeWidth=1;fontSize=16;fillColor=#FFFFCC;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="521.12" y="370" width="97.75" height="67" as="geometry" />
+          <mxGeometry x="601.13" y="370" width="97.75" height="67" as="geometry" />
         </mxCell>
         <mxCell id="b0YSRWX1-zdIaK3O9mq3-7" value="规则结构化服务" style="rounded=1;arcSize=20;strokeWidth=1;fontSize=16;fillColor=#CCFFFF;strokeColor=#67AB9F;" vertex="1" parent="1">
-          <mxGeometry x="325" y="370" width="130" height="67" as="geometry" />
+          <mxGeometry x="365" y="370" width="130" height="67" as="geometry" />
         </mxCell>
         <mxCell id="b0YSRWX1-zdIaK3O9mq3-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="b0YSRWX1-zdIaK3O9mq3-9" target="b0YSRWX1-zdIaK3O9mq3-5">
           <mxGeometry relative="1" as="geometry" />
