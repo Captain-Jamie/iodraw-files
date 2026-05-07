@@ -25,9 +25,6 @@
         <mxCell id="AnGsgY-nTlRYJzshRXLc-17" value="校验服务" style="rounded=1;arcSize=20;strokeWidth=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="170" y="370" width="100" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="b0YSRWX1-zdIaK3O9mq3-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="AnGsgY-nTlRYJzshRXLc-18" target="b0YSRWX1-zdIaK3O9mq3-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="AnGsgY-nTlRYJzshRXLc-18" value="RAG知识库" style="rounded=1;arcSize=20;strokeWidth=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="480" y="518" width="130" height="67" as="geometry" />
         </mxCell>
@@ -90,6 +87,12 @@
         </mxCell>
         <mxCell id="b0YSRWX1-zdIaK3O9mq3-9" value="意图识别服务" style="rounded=1;arcSize=20;strokeWidth=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="380" y="220.5" width="100" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="b0YSRWX1-zdIaK3O9mq3-18" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="390" as="sourcePoint" />
+            <mxPoint x="370" y="340" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
