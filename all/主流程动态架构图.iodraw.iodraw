@@ -67,9 +67,6 @@
         <mxCell id="AnGsgY-nTlRYJzshRXLc-45" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;8. 返回校验结构&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-200" y="-140" width="102.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="b0YSRWX1-zdIaK3O9mq3-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="b0YSRWX1-zdIaK3O9mq3-4" target="AnGsgY-nTlRYJzshRXLc-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="b0YSRWX1-zdIaK3O9mq3-4" value="记忆服务" style="rounded=1;arcSize=20;strokeWidth=1;fontSize=16;fillColor=#CCFFE6;strokeColor=#006633;" vertex="1" parent="1">
           <mxGeometry x="70" y="220.5" width="110" height="67" as="geometry" />
         </mxCell>
@@ -149,7 +146,13 @@
           <mxGeometry x="170" y="400" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b0YSRWX1-zdIaK3O9mq3-35" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;2. 读取长期记忆&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="190" y="220.5" width="140" height="20" as="geometry" />
+          <mxGeometry x="180" y="230" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="b0YSRWX1-zdIaK3O9mq3-36" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="420" as="sourcePoint" />
+            <mxPoint x="490" y="370" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
