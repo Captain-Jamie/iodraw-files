@@ -32,7 +32,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AnGsgY-nTlRYJzshRXLc-30" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;1. 提交&lt;span style=&quot;background-color: initial;&quot;&gt;方案/发起问答&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="499.75" y="80" width="132.5" height="20" as="geometry" />
+          <mxGeometry x="-220" y="170" width="132.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AnGsgY-nTlRYJzshRXLc-31" value="&lt;span class=&quot;ne-text&quot;&gt;新增聊天消息&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;更新聊天会话&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-460" y="-90" width="90" height="30" as="geometry" />
