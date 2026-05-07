@@ -35,7 +35,7 @@
           <mxGeometry x="320" y="391.5" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Pkja0ZUV6_osHcOmfgIi-14" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;2. 调用聊天服务&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="335" y="180" width="105" height="20" as="geometry" />
+          <mxGeometry x="490" y="180" width="105" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Pkja0ZUV6_osHcOmfgIi-17" value="记忆服务" style="rounded=1;arcSize=20;strokeWidth=1;fontSize=16;fillColor=#CCFFE6;strokeColor=#006633;" vertex="1" parent="1">
           <mxGeometry x="220" y="214" width="110" height="67" as="geometry" />
@@ -82,7 +82,7 @@
             <mxPoint x="440" y="300" as="sourcePoint" />
             <mxPoint x="490" y="250" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="340" y="170" />
+              <mxPoint x="490" y="170" />
               <mxPoint x="703" y="170" />
             </Array>
           </mxGeometry>
