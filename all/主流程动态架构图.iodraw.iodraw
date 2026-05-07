@@ -119,9 +119,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="b0YSRWX1-zdIaK3O9mq3-26" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;6.调用意图识别服务&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="378.5" y="230" width="140" height="20" as="geometry" />
+          <mxGeometry x="375.5" y="230" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="b0YSRWX1-zdIaK3O9mq3-27" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;5.触发校验&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="b0YSRWX1-zdIaK3O9mq3-27" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;7.触发校验&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="572.5" y="230" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="b0YSRWX1-zdIaK3O9mq3-28" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;6.规划检索&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
