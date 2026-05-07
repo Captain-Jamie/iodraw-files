@@ -52,7 +52,7 @@
         <mxCell id="AnGsgY-nTlRYJzshRXLc-38" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;9. 调用RAG检索&lt;span style=&quot;background-color: initial;&quot;&gt;接口&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="735" y="560" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="AnGsgY-nTlRYJzshRXLc-39" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;8. 召回相关证据&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="AnGsgY-nTlRYJzshRXLc-39" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;10. 召回相关证据&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="770" y="450" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AnGsgY-nTlRYJzshRXLc-40" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;6. 检索结构化规则复用&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -133,7 +133,7 @@
         <mxCell id="b0YSRWX1-zdIaK3O9mq3-30" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;12.调用校验服务&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="390" y="380" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="b0YSRWX1-zdIaK3O9mq3-31" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;9.调用规则结构化服务&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="b0YSRWX1-zdIaK3O9mq3-31" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;11.调用规则结构化服务&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="606.13" y="380" width="128.87" height="20" as="geometry" />
         </mxCell>
         <mxCell id="b0YSRWX1-zdIaK3O9mq3-32" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;10.查询可复用规则&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
