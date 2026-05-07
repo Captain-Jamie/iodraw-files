@@ -121,7 +121,7 @@
             <mxPoint x="490" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b0YSRWX1-zdIaK3O9mq3-26" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;2. 调用服务处理用户查询&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="b0YSRWX1-zdIaK3O9mq3-26" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;4.识别用户意图&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="390" y="230" width="140" height="20" as="geometry" />
         </mxCell>
       </root>
