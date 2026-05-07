@@ -44,7 +44,7 @@
           <mxGeometry x="527.5" y="223.5" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Pkja0ZUV6_osHcOmfgIi-37" value="&lt;span class=&quot;ne-text&quot;&gt;3.检索历史聊天&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="345" width="100" height="30" as="geometry" />
+          <mxGeometry x="420" y="340" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Pkja0ZUV6_osHcOmfgIi-38" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;4. 调用记忆服务&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="223.5" width="110" height="20" as="geometry" />
@@ -92,7 +92,7 @@
           <mxGeometry x="531.5" y="253.5" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Pkja0ZUV6_osHcOmfgIi-55" value="&lt;span class=&quot;ne-text&quot;&gt;4.返回历史聊天&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="293.5" width="100" height="30" as="geometry" />
+          <mxGeometry x="420" y="288.5" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Pkja0ZUV6_osHcOmfgIi-56" value="&lt;span class=&quot;ne-text&quot;&gt;10.新增用户消息，&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;更新聊天会话&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="660" y="437" width="175" height="30" as="geometry" />
