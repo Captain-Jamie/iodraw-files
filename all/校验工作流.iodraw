@@ -65,10 +65,10 @@
           <mxGeometry y="220.5" width="110" height="67" as="geometry" />
         </mxCell>
         <mxCell id="b0YSRWX1-zdIaK3O9mq3-5" value="输入结构化服务" style="rounded=1;arcSize=20;strokeWidth=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="450" y="220.5" width="140" height="67" as="geometry" />
+          <mxGeometry x="320" y="220.5" width="140" height="67" as="geometry" />
         </mxCell>
         <mxCell id="b0YSRWX1-zdIaK3O9mq3-6" value="检索服务" style="rounded=1;arcSize=20;strokeWidth=1;fontSize=16;fillColor=#FFFFCC;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="632.25" y="220.5" width="97.75" height="67" as="geometry" />
+          <mxGeometry x="510" y="220.5" width="97.75" height="67" as="geometry" />
         </mxCell>
         <mxCell id="b0YSRWX1-zdIaK3O9mq3-7" value="规则结构化服务" style="rounded=1;arcSize=20;strokeWidth=1;fontSize=16;fillColor=#CCFFFF;strokeColor=#67AB9F;" vertex="1" parent="1">
           <mxGeometry x="660" y="303" width="130" height="67" as="geometry" />
