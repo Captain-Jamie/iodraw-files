@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="l4p9cUV5JSghDiwaHhqg-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="181.5" y="540" width="590" height="430" as="geometry" />
+          <mxGeometry x="177.5" y="570" width="590" height="430" as="geometry" />
         </mxCell>
         <mxCell id="Pkja0ZUV6_osHcOmfgIi-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Pkja0ZUV6_osHcOmfgIi-3" target="Pkja0ZUV6_osHcOmfgIi-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -18,9 +18,6 @@
         </mxCell>
         <mxCell id="Pkja0ZUV6_osHcOmfgIi-7" value="聊天服务" style="rounded=1;arcSize=20;strokeWidth=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="440" y="214" width="100" height="67" as="geometry" />
-        </mxCell>
-        <mxCell id="Pkja0ZUV6_osHcOmfgIi-10" value="RAG知识库" style="rounded=1;arcSize=20;strokeWidth=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="220" y="370" width="110" height="67" as="geometry" />
         </mxCell>
         <mxCell id="Pkja0ZUV6_osHcOmfgIi-11" value="PostgreSQL" style="rounded=1;arcSize=20;strokeWidth=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="671.5" y="370" width="100" height="67" as="geometry" />
@@ -70,9 +67,9 @@
         <mxCell id="Pkja0ZUV6_osHcOmfgIi-50" value="&lt;span class=&quot;ne-text&quot;&gt;6.新增用户消息，&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;更新聊天会话&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="532.5" y="430" width="175" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Pkja0ZUV6_osHcOmfgIi-51" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="Pkja0ZUV6_osHcOmfgIi-10" target="Pkja0ZUV6_osHcOmfgIi-17" edge="1">
+        <mxCell id="Pkja0ZUV6_osHcOmfgIi-51" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" target="Pkja0ZUV6_osHcOmfgIi-17" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="440" y="300" as="sourcePoint" />
+            <mxPoint x="275" y="370" as="sourcePoint" />
             <mxPoint x="490" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
