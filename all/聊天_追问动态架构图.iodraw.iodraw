@@ -65,7 +65,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Pkja0ZUV6_osHcOmfgIi-50" value="&lt;span class=&quot;ne-text&quot;&gt;6.新增用户消息，&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;更新聊天会话&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="532.5" y="430" width="175" height="30" as="geometry" />
+          <mxGeometry x="297.5" y="430" width="175" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Pkja0ZUV6_osHcOmfgIi-51" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" target="Pkja0ZUV6_osHcOmfgIi-17" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -83,7 +83,7 @@
           <mxGeometry x="531.5" y="253.5" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Pkja0ZUV6_osHcOmfgIi-56" value="&lt;span class=&quot;ne-text&quot;&gt;15.新增系统消息，&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;更新聊天会话&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="532.5" y="450" width="175" height="30" as="geometry" />
+          <mxGeometry x="297.5" y="450" width="175" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l4p9cUV5JSghDiwaHhqg-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="l4p9cUV5JSghDiwaHhqg-1" target="Pkja0ZUV6_osHcOmfgIi-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -110,7 +110,7 @@
           <mxGeometry x="319.25" y="360" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l4p9cUV5JSghDiwaHhqg-7" value="&lt;span class=&quot;ne-text&quot;&gt;5.返回历史聊天&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="547.5" y="384" width="100" height="30" as="geometry" />
+          <mxGeometry x="347.5" y="384" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l4p9cUV5JSghDiwaHhqg-8" value="&lt;span class=&quot;ne-text&quot;&gt;7.返回历史聊天&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="490" y="281" width="100" height="30" as="geometry" />
