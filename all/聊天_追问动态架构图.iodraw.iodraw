@@ -113,7 +113,10 @@
           <mxGeometry x="547.5" y="384" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l4p9cUV5JSghDiwaHhqg-8" value="&lt;span class=&quot;ne-text&quot;&gt;7.返回历史聊天&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="288.5" width="100" height="30" as="geometry" />
+          <mxGeometry x="490" y="281" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l4p9cUV5JSghDiwaHhqg-11" value="&lt;span class=&quot;ne-text&quot;&gt;14.调用会话服务&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="335" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
