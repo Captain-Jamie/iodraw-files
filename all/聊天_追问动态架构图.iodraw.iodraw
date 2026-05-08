@@ -20,7 +20,7 @@
           <mxGeometry x="220" y="370" width="110" height="67" as="geometry" />
         </mxCell>
         <mxCell id="Pkja0ZUV6_osHcOmfgIi-11" value="PostgreSQL" style="rounded=1;arcSize=20;strokeWidth=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="440" y="370" width="100" height="67" as="geometry" />
+          <mxGeometry x="800" y="449" width="100" height="67" as="geometry" />
         </mxCell>
         <mxCell id="Pkja0ZUV6_osHcOmfgIi-12" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;1. 用户闲聊追问&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="310" y="80" width="132.5" height="20" as="geometry" />
@@ -44,7 +44,7 @@
           <mxGeometry x="527.5" y="223.5" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Pkja0ZUV6_osHcOmfgIi-37" value="&lt;span class=&quot;ne-text&quot;&gt;3.检索历史聊天&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="420" y="333" width="100" height="30" as="geometry" />
+          <mxGeometry x="780" y="412" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Pkja0ZUV6_osHcOmfgIi-38" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;6. 调用记忆服务&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="330" y="223.5" width="110" height="20" as="geometry" />
@@ -67,14 +67,14 @@
             <mxPoint x="490" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Pkja0ZUV6_osHcOmfgIi-49" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" parent="1" source="Pkja0ZUV6_osHcOmfgIi-11" target="Pkja0ZUV6_osHcOmfgIi-7" edge="1">
+        <mxCell id="Pkja0ZUV6_osHcOmfgIi-49" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" parent="1" source="Pkja0ZUV6_osHcOmfgIi-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="440" y="300" as="sourcePoint" />
-            <mxPoint x="490" y="250" as="targetPoint" />
+            <mxPoint x="800" y="379" as="sourcePoint" />
+            <mxPoint x="825" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Pkja0ZUV6_osHcOmfgIi-50" value="&lt;span class=&quot;ne-text&quot;&gt;5.新增用户消息，&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;更新聊天会话&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="520" y="293.5" width="175" height="30" as="geometry" />
+          <mxGeometry x="880" y="372.5" width="175" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Pkja0ZUV6_osHcOmfgIi-51" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="Pkja0ZUV6_osHcOmfgIi-10" target="Pkja0ZUV6_osHcOmfgIi-17" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -92,16 +92,19 @@
           <mxGeometry x="531.5" y="253.5" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Pkja0ZUV6_osHcOmfgIi-55" value="&lt;span class=&quot;ne-text&quot;&gt;4.返回历史聊天&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="420" y="288.5" width="100" height="30" as="geometry" />
+          <mxGeometry x="780" y="367.5" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Pkja0ZUV6_osHcOmfgIi-56" value="&lt;span class=&quot;ne-text&quot;&gt;12.新增系统消息，&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;更新聊天会话&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="520" y="323.5" width="175" height="30" as="geometry" />
+          <mxGeometry x="880" y="402.5" width="175" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Pkja0ZUV6_osHcOmfgIi-59" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" parent="1" source="Pkja0ZUV6_osHcOmfgIi-11" target="Pkja0ZUV6_osHcOmfgIi-7" edge="1">
+        <mxCell id="Pkja0ZUV6_osHcOmfgIi-59" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" parent="1" source="Pkja0ZUV6_osHcOmfgIi-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="440" y="300" as="sourcePoint" />
-            <mxPoint x="490" y="250" as="targetPoint" />
+            <mxPoint x="800" y="379" as="sourcePoint" />
+            <mxPoint x="875" y="360" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="l4p9cUV5JSghDiwaHhqg-1" value="意图识别服务" style="rounded=1;arcSize=20;strokeWidth=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="677.5" y="224" width="100" height="67" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
