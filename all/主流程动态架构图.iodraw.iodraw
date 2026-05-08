@@ -34,9 +34,6 @@
         <mxCell id="AnGsgY-nTlRYJzshRXLc-30" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;1. 提交&lt;span style=&quot;background-color: initial;&quot;&gt;方案/发起问答&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="440" y="70" width="132.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="AnGsgY-nTlRYJzshRXLc-31" value="&lt;span class=&quot;ne-text&quot;&gt;18.新增系统消息&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;更新聊天会话&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="260" y="555" width="110" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="AnGsgY-nTlRYJzshRXLc-33" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;2. 调用服务处理用户查询&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="345" y="180" width="140" height="20" as="geometry" />
         </mxCell>
@@ -177,6 +174,9 @@
               <mxPoint x="315" y="350" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="tRsc9fD7jCv6zGGEajlf-10" value="&lt;span class=&quot;ne-text&quot;&gt;3.新增用户消息&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;，更新聊天会话&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="500" width="190" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
