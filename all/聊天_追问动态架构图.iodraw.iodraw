@@ -82,7 +82,7 @@
         <mxCell id="Pkja0ZUV6_osHcOmfgIi-53" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;13.闲聊/追问直接回复&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="531.5" y="253.5" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Pkja0ZUV6_osHcOmfgIi-56" value="&lt;span class=&quot;ne-text&quot;&gt;14.新增系统消息，&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;更新聊天会话&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="Pkja0ZUV6_osHcOmfgIi-56" value="&lt;span class=&quot;ne-text&quot;&gt;15.新增系统消息，&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;更新聊天会话&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="532.5" y="450" width="175" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l4p9cUV5JSghDiwaHhqg-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="l4p9cUV5JSghDiwaHhqg-1" target="Pkja0ZUV6_osHcOmfgIi-11">
