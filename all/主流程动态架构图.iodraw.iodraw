@@ -175,7 +175,7 @@
         <mxCell id="b0YSRWX1-zdIaK3O9mq3-34" value="&lt;span class=&quot;ne-text&quot;&gt;6.新增用户消息&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;，更新聊天会话&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="230" y="570" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tRsc9fD7jCv6zGGEajlf-10" value="&lt;span class=&quot;ne-text&quot;&gt;3.新增系统消息&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;，更新聊天会话&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="tRsc9fD7jCv6zGGEajlf-10" value="&lt;span class=&quot;ne-text&quot;&gt;23.新增系统消息&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;，更新聊天会话&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="582" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tRsc9fD7jCv6zGGEajlf-12" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="tRsc9fD7jCv6zGGEajlf-1" target="AnGsgY-nTlRYJzshRXLc-19">
