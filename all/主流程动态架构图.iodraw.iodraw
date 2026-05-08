@@ -17,7 +17,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tRsc9fD7jCv6zGGEajlf-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AnGsgY-nTlRYJzshRXLc-16" target="tRsc9fD7jCv6zGGEajlf-1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="360" />
+              <mxPoint x="210" y="360" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="AnGsgY-nTlRYJzshRXLc-16" value="聊天服务" style="rounded=1;arcSize=20;strokeWidth=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="290" y="220.5" width="100" height="67" as="geometry" />
