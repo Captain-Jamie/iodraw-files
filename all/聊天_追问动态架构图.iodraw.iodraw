@@ -46,7 +46,7 @@
         <mxCell id="Pkja0ZUV6_osHcOmfgIi-38" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;8. 调用记忆服务&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="330" y="223.5" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Pkja0ZUV6_osHcOmfgIi-40" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;7. 检索用户长期记忆&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="Pkja0ZUV6_osHcOmfgIi-40" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;9. 检索用户长期记忆&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="270" y="340" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Pkja0ZUV6_osHcOmfgIi-41" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div&gt;8.返回长期记忆&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
